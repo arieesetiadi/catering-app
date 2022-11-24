@@ -12,6 +12,11 @@
     border-left: 4px solid #6f4e37;
 }
 
+ul#categoryList {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
 ul#categoryList li {
     margin: 10px 0;
 }
@@ -22,15 +27,20 @@ span#categoryTitle {
     font-size: 150%;
 }
 
+/* Mobile */
 @media only screen and (max-width: 600px) {
-    ul#categoryList {
+    #keranjangHead {
+        display: none;
+    }
+
+    /* ul#categoryList {
         display: flex;
         padding: 100px;
         justify-content: center;
-    }
+    } */
 
-    ul#categoryList li {
+    /* ul#categoryList li {
         width: 100px;
         margin: 0 15px;
-    }
+    } */
 }
