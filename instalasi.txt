@@ -1,0 +1,15 @@
+Cara Setting koneksi:
+1. Buka Folder sw-liabrary -> lalu buka file config.php
+	$DB_HOST 	= "localhost";
+	$DB_USER 	= "root";
+	$DB_PASSWD  	= "";//kosongkan jika tidak memakai password
+	$DB_NAME 	= "lampung_catering"; // sesuaikan database jika nama database berbeda
+   Sesuaikan koneksi database kalian.
+
+2. Setting Url
+   Buka Databasenya -> lalu pilih tabel site :
+   Silahkan ubah site urlnya sesuakan dengan alamat web kalian.
+
+3. Admin : tambahkan url/lc-admin
+   User : Admin
+   Password : admin123

@@ -1,0 +1,315 @@
+@media only screen and (min-width:999px) and (max-width:1024px) {
+
+
+/* ------------ FOOTER ----------- */
+  .about-contact-info .phone-info {
+    width: 25%;
+    float: left;
+  }
+
+  .about-contact-info .email-info {
+      width: 35%;
+      float: left;
+  }
+
+
+/* ------------ DETAILS PRODUCT ---------------- */
+  .sw-singgle-product .btn-order{
+    margin: auto;
+    text-align: center;
+    margin:3px 4px 3px 0px;
+    padding:11px 14px;
+    font-size:12px;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 780px) {
+
+/* ------------ HEADER TOP ----------------- */
+  .header-top .top-contact {
+    float: none;
+    line-height: 30px;
+    display: block;
+    text-align: center;
+  }
+
+  .header-top .top-contact .list {
+    float: none;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .header-top .item {
+    float: none;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .header-top .item:not(:last-child):before {
+    display: none;
+  }
+
+/*----------------- TESTIMONI ------------------- */
+  .sw-testimonial .img-right {
+      right: -200px;
+      top: 0px;
+  }
+
+  .img-bg {
+    width:400px;
+  }
+
+
+/* ---------------- BLOG ------------------------ */
+.sidebar-wrapper {
+    padding-right: 0px;
+    padding-left:0px;
+}
+
+
+  article.sw-blog-grid .blog-content {
+    position: relative;
+    padding: 10px 20px 20px 20px;
+}
+
+  article.sw-blog-grid .blog-content h3{
+  font-size:15px;
+  font-weight: 500;
+  line-height:25px;
+  color: #444;
+  padding: 0px;
+  margin:5px 0px 0px 0px;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+article.sw-blog-grid .blog-content .desc{
+  margin:10px 0px 10px;
+  line-height:25px;
+  display: none;
+}
+
+
+}
+
+
+@media only screen and (max-width: 610px) and (min-width: 400px) {
+  .header-top .item {
+    display: none;
+  }
+
+
+/* ------------------ SERVICE ---------------------- */
+  .service-block-item .icon {
+    height:60px;
+    width: 60px;
+  }
+
+
+.front_service {
+  position: relative;
+  margin: 30px 0px;
+  min-height:80px;
+}
+
+
+/*----------- SIDEBAR ----------*/
+.sidebar-wrapper {
+    padding-right: 0px;
+    padding-left:0px;
+}
+
+
+
+/* ---------- blog slider ------ */
+  blog-slider .owl-carousel .owl-item{
+    margin:5px;
+  }
+
+
+/* ----------- PRODUCT DETILS ----------- */
+  .block-img-product img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+  }
+
+  .share-item ul li a{
+    margin-right: 4px;
+  }
+/* ---------- FOOTER ----------------- */
+  .subscribe-heading {
+    float: none;
+    text-align: center;
+  }
+
+  .subscribe-wrapper .widget-newsletter {
+    position: relative;
+    width: 300px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    float:none;
+}
+
+/* ------------ FOOTER ----------------- */
+  .about-contact-info .info-content p {
+      color: #eee;
+      font-size:12px;
+  }
+
+  .about-contact-info .phone-info p {
+      color: #eee;
+      font-size:12px;
+  }
+
+  .about-contact-info .email-info{
+    width: 32%;
+  }
+  .about-contact-info .mail-info p {
+      color: #eee;
+      font-size:12px;
+  }
+}
+
+@media (max-width: 380px) {
+  .navbar-brand img{
+    height:42px!important;
+    margin-top:5px;
+  }
+
+  .header-top .item {
+    display: none;
+  }
+
+
+/* ------------------------- */
+.content-breadcrumbs{
+  width:95%;
+}
+
+/* ----------- SERVICE ----------  */
+
+.front_service {
+  position: relative;
+  margin:20px 0px;
+  min-height:auto;
+}
+
+
+
+/* ----------- PEMESANAN --------  */
+  .form-pos-01 {
+        padding: 50px 15px;
+  }
+
+/* ----------- TESTIMONI -------- */
+  .img-bg {
+    display: none;
+  }
+
+
+/*----------- SIDEBAR ----------*/
+.sidebar-wrapper {
+    padding-right: 0px;
+    padding-left:0px;
+}
+
+
+/* ----------- PRODUCT DETILS ----------- */
+ .sw-singgle-product {
+    padding: 20px 8px 20px;
+  }
+
+  .block-img-product img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+  }
+
+  .sw-singgle-product .btn-order{
+    margin: auto;
+    text-align: center;
+    margin:3px 4px 3px 0px;
+    width:90%;
+  }
+
+  .share-wrapper{
+    padding: 18px 20px;
+  }
+
+  .share-wrapper h3{
+    float: none;
+    position: relative;
+  }
+
+  .share-item ul li {
+    width: 46%;
+    display: block;
+    margin:3px;
+  }
+  .share-item ul li a{
+    padding:2px 7px;
+    display: inline-block;
+    width:100%;
+    font-size:10px;
+  }
+
+.sw-pro-tab-list li a {
+    padding: 14px 10px;
+    background: #fff;
+    color: #000;
+    font-family: "Merriweather Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    border-right: solid 1px #eee;
+    margin: 0px;
+    text-transform: uppercase;
+}
+
+
+/* ---------- FOOTER ----------------- */
+  .subscribe-heading {
+    float: none;
+    text-align: center;
+  }
+
+  .subscribe-wrapper .widget-newsletter {
+    position: relative;
+    width:100%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom:20px;
+    float:none;
+}
+
+  ul.socials-about {
+      float:none;
+      position: relative;
+      display: table;
+  }
+
+.about-contact-info .address-info {
+    width:100%;
+    float:none;
+    margin-right:0px;
+}
+.about-contact-info .phone-info {
+    width:100%;
+    float:none;
+}
+
+.about-contact-info .email-info {
+    width:100%;
+    float:none;
+}
+
+.sm-hidden{display: none;}
+
+}

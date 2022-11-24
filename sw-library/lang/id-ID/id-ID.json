@@ -1,0 +1,639 @@
+{
+	"info": [
+		{
+			"language":"id-ID",
+			"language_detail":"Bahasa Indonesia"
+		}
+	],
+	"dictionary": [
+{
+	"f":"Actions",
+	"t":"Aksi"
+},
+{
+	"f":"Active",
+	"t":"Aktif"
+},
+{
+	"f":"Add",
+	"t":"Tambah"
+},
+{
+	"f":"Add New",
+	"t":"Tambah Baru"
+},
+{
+	"f":"Add New Category",
+	"t":"Tambah Kategori Baru"
+},
+{
+	"f":"Add New Tag",
+	"t":"Tambah Tag Baru"
+},
+{
+	"f":"Edit Category",
+	"t":"Edit Kategori"
+},
+
+{
+	"f":"All Posts",
+	"t":"Semua Artikel"
+},
+
+{
+	"f":"All Portofolio",
+	"t":"Semua Karya"
+},
+{
+	"f":"Team",
+	"t":"Semua Tim"
+},
+
+{
+	"f":"Powered",
+	"t":"Pendukung"
+},
+
+{
+	"f":"All Testimoni",
+	"t":"Semua Testimoni"
+},
+
+{
+	"f":"All Users",
+	"t":"Semua Pengguna"
+},
+{
+	"f":"Are You Sure ?",
+	"t":"Apakah Anda Yakin ?"
+},
+{
+	"f":"Backup Database",
+	"t":"Salin Database"
+},
+{
+	"f":"Backup",
+	"t":"Backup"
+},
+{
+	"f":"Click here",
+	"t":"Klik disini"
+},
+{
+	"f":"Cancel",
+	"t":"Batal"
+},
+{
+	"f":"Comments",
+	"t":"Komentar"
+},
+{
+	"f":"Category",
+	"t":"Kategori"
+},
+{
+	"f":"Description Post",
+	"t":"Deskripsi Post"
+},
+
+{
+	"f":"Description",
+	"t":"Deskripsi"
+},
+{
+	"f":"Categories",
+	"t":"Kategori"
+},
+{
+	"f":"Choose a Category",
+	"t":"Pilih Kategori"
+},
+{
+	"f":"Content",
+	"t":"Isi"
+},
+{
+	"f":"Can input more than one tag",
+	"t":"Dapat memasukan lebih dari satu tag"
+},
+{
+	"f":"Count",
+	"t":"Jumlah"
+},
+{
+	"f":"Category Management",
+	"t":"Manajemen Kategori"
+},
+
+{
+	"f":"Module Management",
+	"t":"Manajemen Module"
+},
+
+{
+	"f":"User Management",
+	"t":"Manajemen User"
+},
+
+{
+	"f":"Color Theme",
+	"t":"Warna Tema"
+},
+{
+	"f":"Dashboard",
+	"t":"Dashboard"
+},
+{
+	"f":"Date",
+	"t":"Tanggal"
+},
+{
+	"f":"Delete",
+	"t":"Hapus"
+},
+{
+	"f":"Delete Selected Item",
+	"t":"Hapus Item dipilih"
+},
+{
+	"f":"General Settings",
+	"t":"Setelan Umum"
+},
+{
+	"f":"Gallery",
+	"t":"Galeri"
+},
+{
+	"f":"Galleries",
+	"t":"Galeri"
+},
+{
+	"f":"Home",
+	"t":"Beranda"
+},
+{
+	"f":"Language",
+	"t":"Bahasa"
+},
+{
+	"f":"Layout",
+	"t":"Tata Letak"
+},
+
+{
+	"f":"Select Layout",
+	"t":"Pilih Tata Letak"
+},
+
+
+{
+	"f":"Libraries",
+	"t":"Pustaka"
+},
+{
+	"f":"Logout",
+	"t":"Keluar"
+},
+{
+	"f":"Module",
+	"t":"Modul"
+},
+{
+	"f":"Module Management",
+	"t":"Managemen Modul"
+},
+
+{
+	"f":"Banner Management",
+	"t":"Managemen Banner"
+},
+
+{
+	"f":"All Banner",
+	"t":"Semua Banner"
+},
+
+
+{
+	"f":"Messages",
+	"t":"Pesan"
+},
+{
+	"f":"New",
+	"t":"Baru"
+},
+{
+	"f":"Page",
+	"t":"Laman"
+},
+{
+	"f":"Page Management",
+	"t":"Manajemen Halaman Statis"
+},
+
+{
+	"f":"Testimoni Management",
+	"t":"Manajemen Testimoni"
+},
+
+{
+	"f":"Slider Management",
+	"t":"Manajemen Slider"
+},
+
+{
+	"f":"Pages",
+	"t":"Halaman"
+},
+
+{
+	"f":"Message",
+	"t":"Pesan"
+},
+
+{
+	"f":"Consultation",
+	"t":"Pesan Konsultasi"
+},
+
+
+{
+	"f":"View Consultation",
+	"t":"View Pesan Konsultasi"
+},
+
+{
+	"f":"All Message",
+	"t":"Semua Pesan"
+},
+
+{
+	"f":"All Consultation",
+	"t":"Semua Konsultasi"
+},
+
+{
+	"f":"Post",
+	"t":"Artikel"
+},
+{
+	"f":"Post Management",
+	"t":"Manajemen Artikel"
+},
+{
+	"f":"Restore Database",
+	"t":"Restore Database"
+},
+{
+	"f":"Restore",
+	"t":"Restore"
+},
+{
+	"f":"Submit",
+	"t":"Setuju"
+},
+{
+	"f":"Settings",
+	"t":"Setelan"
+},
+{
+	"f":"Submit",
+	"t":"Setuju"
+},
+{
+	"f":"Save",
+	"t":"Simpan"
+},
+{
+	"f":"Back",
+	"t":"Kembali"
+},
+
+{
+	"f":"Tag",
+	"t":"Tag"
+},
+{
+	"f":"Title",
+	"t":"Judul"
+},
+
+{
+	"f":"Work",
+	"t":"Pekerjaan"
+},
+{
+	"f":"Delete Post",
+	"t":"Hapus Pos"
+},
+{
+	"f":"New Post",
+	"t":"Pos Baru"
+},
+{
+	"f":"Post Title",
+	"t":"Judul Pos"
+},
+{
+	"f":"Enter title here",
+	"t":"Masukkan Judul"
+},
+{
+	"f":"Enter sub title here",
+	"t":"Masukkan Sub Judul"
+},
+{
+	"f":"Post Sub Title",
+	"t":"Sub Judul Post"
+},
+{
+	"f":"Publish",
+	"t":"Terbitkan"
+},
+
+{
+	"f":"Title Seo",
+	"t":"Judul Seo"
+},
+{
+	"f":"Are you sure you want to delete ..?",
+	"t":"Apakah anda yakin ingin menghapus..?"
+},
+{
+	"f":"Deleted",
+	"t":"Hapus Item"
+},
+{
+	"f":"The category will be Deleted",
+	"t":"Kategori ini akan dihapus"
+},
+{
+	"f":"Tag Management",
+	"t":"Manajemen Tag"
+},
+
+{
+	"f":"Team Management",
+	"t":"Manajemen Tim"
+},
+{
+	"f":"Portofolio Management",
+	"t":"Manajemen Karya"
+},
+
+{
+	"f":"Powered Management",
+	"t":"Manajemen Pendukung"
+},
+{
+	"f":"Theme",
+	"t":"Tema"
+},
+{
+	"f":"Tags",
+	"t":"Tag"
+},
+{
+	"f":"Themes",
+	"t":"Tema"
+},
+{
+	"f":"User",
+	"t":"Pengguna"
+},
+{
+	"f":"Users",
+	"t":"Pengguna"
+},
+{
+	"f":"Upload Picture",
+	"t":"Unggah Gambar"
+},
+{
+	"f":"Visitor Statistic",
+	"t":"Statistik Pengunjung"
+},
+{
+	"f":"You Look Awesome!",
+	"t":"You Look Awesome!"
+},
+{
+	"f":"Your Login Info: ",
+	"t":"Info Login: "
+},
+{
+	"f":"Welcome",
+	"t":"Selamat Datang"
+},
+
+{
+	"f":"Product",
+	"t":"Produk"
+},
+
+{
+	"f":"All Product",
+	"t":"Semua Produk"
+},
+
+{
+	"f":"Tags Product",
+	"t":"Tag Produk"
+},
+
+{
+	"f":"Brand",
+	"t":"Merek"
+},
+
+{
+	"f":"Color And Size",
+	"t":"Warna & Ukuran"
+},
+
+{
+	"f":"Product Management",
+	"t":"Manajemen Produk"
+},
+
+{
+	"f":"Stock",
+	"t":"Stok"
+},
+
+{
+	"f":"Price",
+	"t":"Harga"
+},
+
+{
+	"f":"Review Product",
+	"t":"Ulasan Produk"
+},
+
+{
+	"f":"Review Management",
+	"t":"Manajemen Ulasan"
+},
+
+{
+	"f":"Order",
+	"t":"Pesanan"
+},
+
+{
+	"f":"Order Management",
+	"t":"Manajemen Pesanan"
+},
+
+{
+	"f":"City",
+	"t":"Kota"
+},
+
+{
+	"f":"Report",
+	"t":"Laporan Penjualan"
+},
+
+{
+	"f":"Report Management",
+	"t":"Manajemen Laporan"
+},
+
+
+{
+	"f":"Setting Store",
+	"t":"Setelan Toko"
+},
+
+{
+	"f":"Voucher",
+	"t":"Voucher"
+},
+
+{
+	"f":"Voucher Management",
+	"t":"Manajemen Voucher"
+},
+
+{
+	"f":"Voucher Management",
+	"t":"Manajemen Voucher"
+},
+
+{
+	"f":"Name",
+	"t":"Nama"
+},
+
+{
+	"f":"Code",
+	"t":"Kode"
+},
+
+{
+	"f":"Type",
+	"t":"Tipe"
+},
+
+
+{
+	"f":"Min Price",
+	"t":"Min Harga"
+},
+
+{
+	"f":"Voucher Management",
+	"t":"Manajemen Voucher"
+},
+
+{
+	"f":"Settings Website",
+	"t":"Setelan Website"
+},
+
+{
+	"f":"Statistic Order",
+	"t":"Statistik Pesanan"
+},
+
+{
+	"f":"Product Code",
+	"t":"Kode Produk"
+},
+
+{
+	"f":"Product Name",
+	"t":"Nama Produk"
+},
+
+{
+	"f":"Statistic Order",
+	"t":"Statistik Pesanan"
+},
+
+{
+	"f":"Description Sort",
+	"t":"Deskripsi Singkat"
+},
+
+
+{
+	"f":"Property",
+	"t":"Properti"
+},
+
+{
+	"f":"Add Property",
+	"t":"Tambah Properti"
+},
+
+{
+	"f":"All Property",
+	"t":"Semua Properti"
+},
+
+{
+	"f":"Property Management",
+	"t":"Manajemen Properti"
+},
+
+
+{
+	"f":"Color",
+	"t":"Warna"
+},
+
+{
+	"f":"Size",
+	"t":"Ukuran"
+},
+
+{
+	"f":"Weight",
+	"t":"Berat"
+},
+
+{
+	"f":"Discount",
+	"t":"Diskon"
+},
+
+{
+	"f":"Voucher",
+	"t":"Voucher"
+},
+
+{
+	"f":"Payment",
+	"t":"Pembayaran"
+},
+
+{
+	"f":"Shipment",
+	"t":"Pengiriman"
+},
+		{"f":" ", "t":" "}
+	]
+}

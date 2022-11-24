@@ -1,0 +1,36 @@
+/* Custom */
+.text-brown {
+    color: #6f4e37;
+}
+
+.link {
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.link-active {
+    border-left: 4px solid #6f4e37;
+}
+
+ul#categoryList li {
+    margin: 10px 0;
+}
+
+span#categoryTitle {
+    display: block;
+    padding-top: 20px;
+    font-size: 150%;
+}
+
+@media only screen and (max-width: 600px) {
+    ul#categoryList {
+        display: flex;
+        padding: 100px;
+        justify-content: center;
+    }
+
+    ul#categoryList li {
+        width: 100px;
+        margin: 0 15px;
+    }
+}
