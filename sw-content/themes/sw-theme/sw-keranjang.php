@@ -61,7 +61,7 @@ if ($mod == '') {
         <?php } else { ?>
           <!-- List product -->
           <div class="col-lg-12">
-            <table class="table">
+            <table id="keranjangTable" class="table">
               <thead id="keranjangHead">
                 <tr>
                   <th>#</th>
@@ -80,7 +80,7 @@ if ($mod == '') {
 
                   <!-- Gambar -->
                   <td>
-                    <img id="keranjangImg" width="70px" src="<?= $item['product_img'] ?>" class="img-responsive" alt="<?= $item['product_name'] ?>" />
+                    <img width="70px" src="<?= $item['product_img'] ?>" class="img-responsive keranjang-img" alt="<?= $item['product_name'] ?>" />
                   </td>
 
                   <!-- Name -->

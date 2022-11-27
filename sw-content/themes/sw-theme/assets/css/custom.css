@@ -12,6 +12,10 @@
     border-left: 4px solid #6f4e37;
 }
 
+.keranjang-img {
+    border-radius: 5px;
+}
+
 ul#categoryList {
     margin-bottom: 30px;
     margin-left: 10px;
@@ -19,6 +23,10 @@ ul#categoryList {
 
 ul#categoryList li {
     margin: 10px 0;
+}
+
+ul#categoryList li a {
+    font-size: 120%;
 }
 
 span#categoryTitle {
@@ -30,6 +38,20 @@ span#categoryTitle {
 /* Mobile */
 @media only screen and (max-width: 600px) {
     #keranjangHead {
+        display: none;
+    }
+
+    #keranjangTable * {
+        transform: scale(0.97);
+    }
+
+    ul#categoryList li {
+        margin: 0;
+        width: 100%;
+        /* border: 1px solid black; */
+    }
+
+    .keranjang-img {
         display: none;
     }
 
