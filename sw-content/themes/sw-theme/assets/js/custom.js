@@ -4,7 +4,9 @@ function changeCategory(event) {
     // Change title
     const el = event.target;
     const categoryTitle = el.textContent;
-    categoryTitleSpan.textContent = categoryTitle;
+    if (categoryTitleSpan) {
+        categoryTitleSpan.textContent = categoryTitle;
+    }
 
     // Hide all product container
     const productContainers = document.querySelectorAll(".product-container");
